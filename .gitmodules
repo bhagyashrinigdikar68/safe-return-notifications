@@ -1,0 +1,3 @@
+[submodule "safe-return-notifications"]
+	path = safe-return-notifications
+	url = https://github.com/bhagyashrinigdikar68/safe-return-notifications.git
